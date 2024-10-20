@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.ytp-show-cards-title{@apply hidden bg-blue-800}
+.ytp-watch-later-icon{@apply hidden}
+.hello{@apply text-blue-600}
